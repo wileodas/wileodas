@@ -12,7 +12,9 @@
 </p>
 
 ## 📚 Atualmente aprendendo:
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/r-colored.svg" alt="R" title="R" width="36" height="36" />
+</a>
 
 
 ## 📂 Projetos
