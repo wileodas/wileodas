@@ -19,7 +19,7 @@
 
 ## 📂 Projetos
 
-🔹 Em breve novos projetos aqui!  
+🔹 Portfólio - Espacial Funko POP  
 
 ---
 
