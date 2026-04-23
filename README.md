@@ -20,7 +20,9 @@
 ## 📂 Projetos
 
 🔹 Portfólio - Espacial Funko POP  
-
+<P align = "center>
+<img width="1920" height="3428" alt="Screenshot 2026-04-23 at 10-19-29 Espacial FunkoPop" src="https://github.com/user-attachments/assets/ce27d42f-a939-4377-b0c9-05356f6931e5" />
+</P>
 ---
 
 ## 📫 Contato
